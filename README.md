@@ -1,18 +1,41 @@
-### I'm frontend developer 
+
+## 🚀 About Me
+I'm a full stack developer...
 
 
-<!--
-**doublehrajput/doublehrajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Harish Rajput! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=doublehrajput&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="reekrajroy" /> </p>
+
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://doublehrajput.github.io/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-rajput-092399100/)
+
+[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4623495/double-h)
+
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~doublehrajput)
+
+
+## 🛠 Skills
+- Javascript
+    - **ReactJS**
+    - Angular
+    - NextJS
+- PHP
+    - Yii1
+    - **Yii2**
+
+
+
+## 
+👩‍💻 I'm full stack Developer
+
+👯‍♀️ I'm looking to collaborate
+
+🤔 I'm looking for help with...
+
+💬 Ask me about Javascript
+
+⚡️ Fun fact
+
